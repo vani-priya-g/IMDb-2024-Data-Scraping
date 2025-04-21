@@ -155,4 +155,4 @@ elif selected == "Votes Correlation":
 
 # ---- END ----
 st.markdown("---")
-st.caption("Built with ❤️ using Streamlit | IMDb 2024 Data")
+st.caption("Built  using Streamlit | IMDb 2024 Data")
